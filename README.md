@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as a teacher in the Technical Course in Systems Development and in the Bachelor's Degree in Computer Science.
 - 🌱 I am currently pursuing a Master's degree in Computer Science in the area of Systems and Computing Methods. My research focus is on Computational Intelligence, Image Processing, and Computer Vision.
-- 😄 Pronouns: he/him
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
