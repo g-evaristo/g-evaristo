@@ -1,6 +1,6 @@
 ## Hello! My name is Gabriel Evaristo, a technology teacher!
 
-- 🔭 I’m currently working as a teacher in the Technical Course in Systems Development - SENAI - and in the Bachelor's Degree in Computer Science - UNIFEOB.
+- 🔭 I’m currently working as a teacher in the Technical Course in Systems Development at SENAI and in the Bachelor's Degree in Computer Science at UNIFEOB.
 - 🌱 I am currently pursuing a Master's degree in Computer Science in the area of Systems and Computing Methods. My research focus is on Computational Intelligence, Image Processing, and Computer Vision.
   
 <div style="display: inline_block"><br>
