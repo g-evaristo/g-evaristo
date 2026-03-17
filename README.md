@@ -1,28 +1,43 @@
-## Hello! My name is Gabriel Evaristo, a technology teacher!
+## Olá! Meu nome é Gabriel Evaristo, professor de tecnologia! 👨‍💻
 
-- 🔭 I’m currently working as a teacher in the Technical Course in Systems Development at SENAI and in the Bachelor's Degree in Computer Science at UNIFEOB.
-- 🌱 I am currently pursuing a Master's degree in Computer Science in the area of Systems and Computing Methods. My research focus is on Computational Intelligence, Image Processing, and Computer Vision.
+- 🔭 Atualmente atuo como professor no Curso Técnico em Desenvolvimento de Sistemas no SENAI e no curso de Bacharelado em Ciência da Computação na UNIFEOB.  
+- 🌱 Atualmente estou cursando Mestrado em Ciência da Computação na área de Sistemas e Métodos Computacionais. Minha pesquisa é focada em Inteligência Computacional, Processamento de Imagens e Visão Computacional.  
 
-## :mortar_board: Courses Taught
+---
 
-### 🎓 Technical Course in Systems Development
-- 📝 **Requirements Engineering**  
-- 💻 **Programming Logic and Algorithms**  
-- 🌐 **Network Architecture with IoT**  
-- 🗄️ **Database Systems**  
-- 📄 **Markup Languages**  
-- 🎨 **Front-End Development**  
-- ⚙️ **Back-End Development**  
-- 📱 **Mobile Application Development**  
-- 🤖 **IoT Programming**  
-- 🛠️ **Software Engineering Projects**  
+## 🎓 Disciplinas Ministradas
 
-### 🎓 Bachelor's Degree in Computer Science
-- 📊 **Big Data Analytics**  
-- 🖥️ **Human-Computer Interaction (HCI)**  
+### 🎓 Curso Técnico em Desenvolvimento de Sistemas
+- 📝 **Levantamento de Requisitos**  
+- 💻 **Lógica de Programação e Algoritmos**  
+- 🌐 **Arquitetura de Redes com IoT**  
+- 🗄️ **Banco de Dados**  
+- 📄 **Linguagem de Marcação**  
+- 🎨 **Programação Front-End**  
+- ⚙️ **Programação Back-End**  
+- 📱 **Programação para Dispositivos Móveis**  
+- 🤖 **Internet das Coisas (IoT)**  
+- 🛠️ **Projetos de Software**  
+
+### 🎓 Bacharelado em Ciência da Computação
+- 📊 **Big Data**  
+- 🖥️ **Interação Humano-Computador (IHC)**  
 - 📈 **Business Intelligence**
+- 🤖 **Machine Learning**  
 
+---
 
+## 💻 Tecnologias e Linguagens
+
+- 🌐 HTML5  
+- 🎨 CSS3  
+- ⚡ JavaScript  
+- 🐘 PHP  
+- 🗄️ MySQL  
+- 🐍 Python  
+- 📱 Flutter (Dart)  
+- ⚙️ C++  
+- ☕ Java
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,20 +46,21 @@
   <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Gabriel-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Gabriel-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 <br>
 
-## Connect with me
+## 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-evaristo-496064191/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.evaristo.santana.silva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/gabriel-evaristo-santana/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.evaristo.santana.silva@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g_evaristo)
 
+---
 
+## 📊 Estatísticas
 
-##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-evaristo\&layout=donut)](https://github.com/g-evaristo/github-readme-stats)
