@@ -1,7 +1,8 @@
 ## Olá! Meu nome é Gabriel Evaristo, professor de tecnologia! 👨‍💻
 
-- 🔭 Atualmente atuo como professor no Curso Técnico em Desenvolvimento de Sistemas no SENAI e no curso de Bacharelado em Ciência da Computação na UNIFEOB.  
-- 🌱 Atualmente estou cursando Mestrado em Ciência da Computação na área de Sistemas e Métodos Computacionais. Minha pesquisa é focada em Inteligência Computacional, Processamento de Imagens e Visão Computacional.  
+- 🔭 Atuo como professor no Curso Técnico em Desenvolvimento de Sistemas no SENAI e
+- 🔭 Atuo como professor no curso de Bacharelado em Ciência da Computação na UNIFEOB.  
+- 🌱 Estou cursando Mestrado em Ciência da Computação na área de Sistemas e Métodos Computacionais. Minha pesquisa é focada em Inteligência Computacional, Processamento de Imagens e Visão Computacional.  
 
 ---
 
@@ -13,8 +14,7 @@
 - 🌐 **Arquitetura de Redes com IoT**  
 - 🗄️ **Banco de Dados**  
 - 📄 **Linguagem de Marcação**  
-- 🎨 **Programação Front-End**  
-- ⚙️ **Programação Back-End**  
+- 🎨 **Programação Front-End** 
 - 📱 **Programação para Dispositivos Móveis**  
 - 🤖 **Internet das Coisas (IoT)**  
 - 🛠️ **Projetos de Software**  
