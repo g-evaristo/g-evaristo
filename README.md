@@ -35,7 +35,8 @@
 - 🐘 PHP  
 - 🗄️ MySQL  
 - 🐍 Python  
-- 📱 Flutter (Dart)  
+- 📱 Flutter (Dart)
+- 📲 ReactNative (JS)
 - ⚙️ C++  
 - ☕ Java
   
@@ -47,6 +48,7 @@
   <img alt="Gabriel-MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img alt="Gabriel-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Gabriel-Flutter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img alt="Gabriel-React-Native" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg">
   <img alt="Gabriel-Cpp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img alt="Gabriel-Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
